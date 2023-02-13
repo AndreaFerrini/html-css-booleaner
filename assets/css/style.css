@@ -21,5 +21,14 @@ h6 {
     color: lightgrey;
 }
 section {
-    margin: 25px;
+    padding: 25px;
+}
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+thead {
+    background-color: lightskyblue;
+}.tbody1, tfoot {
+    background-color: cyan;
 }
