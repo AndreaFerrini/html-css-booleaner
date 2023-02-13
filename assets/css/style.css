@@ -17,7 +17,7 @@ main {
 .autore {
     color: lightblue;
 }
-h6 {
+h6, h3 {
     color: lightgrey;
 }
 section {
@@ -29,6 +29,19 @@ table{
 }
 thead {
     background-color: lightskyblue;
-}.tbody1, tfoot {
+    color: white;
+}
+.tbody1, tfoot {
     background-color: cyan;
+}
+.postazione1, .postazione2 {
+    position: relative;
+
+}
+.indice {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    color: white;
 }
