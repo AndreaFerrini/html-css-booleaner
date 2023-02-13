@@ -5,4 +5,9 @@
 }
 header {
     background-image: url(../img/pattern.png);
+    background-color: lightskyblue;
+    background-size: 25%;
+}
+#banner {
+    padding: 20px 0;;
 }
