@@ -8,6 +8,18 @@ header {
     background-color: lightskyblue;
     background-size: 25%;
 }
+main {
+    font-size: 20px;
+}
 #banner {
     padding: 20px 0;;
+}
+.autore {
+    color: lightblue;
+}
+h6 {
+    color: lightgrey;
+}
+section {
+    margin: 25px;
 }
