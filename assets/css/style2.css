@@ -34,6 +34,10 @@ table{
     border-spacing: 0;
     text-align: left;
 }
+.col-1,
+.col-2 {
+    width: 30%;
+}
 thead {
     background-color: lightskyblue;
     color: white;
