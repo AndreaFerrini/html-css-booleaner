@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background-image: url(../img/pattern.png);
+    background-color: lightskyblue;
+    background-size: 25%;
+}
+main {
+    font-size: 20px;
+    margin: auto;
+    max-width: 80%;
+}
+footer {
+    padding: 25px;
+    margin: auto;
+    max-width: 80%;
+}
+.autore {
+    color: lightblue;
+}
+h6, h3 {
+    color: lightgrey;
+}
+li {
+    margin-left: 1em;
+}
+section {
+    padding: 25px;
+}
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+thead {
+    background-color: lightskyblue;
+    color: white;
+}
+.tbody1, tfoot {
+    background-color: cyan;
+}
+.postazione1, .postazione2 {
+    position: relative;
+
+}
+.indice {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    color: white;
+}
