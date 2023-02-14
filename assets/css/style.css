@@ -11,14 +11,17 @@ header {
 main {
     font-size: 20px;
 }
-#banner {
-    padding: 20px 0 0 0;
+footer {
+    padding: 25px;
 }
 .autore {
     color: lightblue;
 }
 h6, h3 {
     color: lightgrey;
+}
+li {
+    margin-left: 1em;
 }
 section {
     padding: 25px;
